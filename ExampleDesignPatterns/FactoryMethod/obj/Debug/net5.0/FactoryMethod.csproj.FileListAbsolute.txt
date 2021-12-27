@@ -1,0 +1,16 @@
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\FactoryMethod\obj\Debug\net5.0\FactoryMethod.csproj.AssemblyReference.cache
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\FactoryMethod\obj\Debug\net5.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\FactoryMethod\obj\Debug\net5.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\FactoryMethod\obj\Debug\net5.0\FactoryMethod.AssemblyInfo.cs
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\FactoryMethod\obj\Debug\net5.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\FactoryMethod\bin\Debug\net5.0\FactoryMethod.exe
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\FactoryMethod\bin\Debug\net5.0\FactoryMethod.deps.json
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\FactoryMethod\bin\Debug\net5.0\FactoryMethod.runtimeconfig.json
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\FactoryMethod\bin\Debug\net5.0\FactoryMethod.runtimeconfig.dev.json
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\FactoryMethod\bin\Debug\net5.0\FactoryMethod.dll
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\FactoryMethod\bin\Debug\net5.0\ref\FactoryMethod.dll
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\FactoryMethod\bin\Debug\net5.0\FactoryMethod.pdb
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\FactoryMethod\obj\Debug\net5.0\FactoryMethod.dll
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\FactoryMethod\obj\Debug\net5.0\ref\FactoryMethod.dll
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\FactoryMethod\obj\Debug\net5.0\FactoryMethod.pdb
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\FactoryMethod\obj\Debug\net5.0\FactoryMethod.genruntimeconfig.cache

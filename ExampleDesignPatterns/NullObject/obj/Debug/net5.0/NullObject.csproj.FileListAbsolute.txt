@@ -1,0 +1,15 @@
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\NullObject\bin\Debug\net5.0\NullObject.exe
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\NullObject\bin\Debug\net5.0\NullObject.deps.json
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\NullObject\bin\Debug\net5.0\NullObject.runtimeconfig.json
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\NullObject\bin\Debug\net5.0\NullObject.runtimeconfig.dev.json
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\NullObject\bin\Debug\net5.0\NullObject.dll
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\NullObject\bin\Debug\net5.0\ref\NullObject.dll
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\NullObject\bin\Debug\net5.0\NullObject.pdb
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\NullObject\obj\Debug\net5.0\NullObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\NullObject\obj\Debug\net5.0\NullObject.AssemblyInfoInputs.cache
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\NullObject\obj\Debug\net5.0\NullObject.AssemblyInfo.cs
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\NullObject\obj\Debug\net5.0\NullObject.csproj.CoreCompileInputs.cache
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\NullObject\obj\Debug\net5.0\NullObject.dll
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\NullObject\obj\Debug\net5.0\ref\NullObject.dll
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\NullObject\obj\Debug\net5.0\NullObject.pdb
+C:\Users\dkzn1\source\repos\ExampleDesignPatterns\NullObject\obj\Debug\net5.0\NullObject.genruntimeconfig.cache
